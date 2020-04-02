@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Car</string>
+    <string-array name="typecar">
+        <item>Mazda 2</item>
+        <item>Mazda 3</item>
+        <item>Mazda cx-3</item>
+        <item>Mazda cx-5</item>
+        <item>Mazda cx-8</item>
+        <item>Mazda mx-5</item>
+    </string-array>
+</resources>

@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "684905220078",
+    "firebase_url": "https://dbmazda-18e9a.firebaseio.com",
+    "project_id": "dbmazda-18e9a",
+    "storage_bucket": "dbmazda-18e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684905220078:android:f5fd06fee3fa4ef4f730ff",
+        "android_client_info": {
+          "package_name": "com.example.myappmazda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684905220078-fja5j473k5dvvng8rcfsgam1053pehdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5m2TtLU9bCinyQfwbFddOdBuwt9saBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684905220078-fja5j473k5dvvng8rcfsgam1053pehdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684905220078:android:942b786406f0be85f730ff",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobileapp.Car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684905220078-fi3neupj3m18l2lp5td6309a3lv46c54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.ac.kku.cis.mobileapp.Car",
+            "certificate_hash": "64d460733b799fba2cd18e1131a89445d8166a6f"
+          }
+        },
+        {
+          "client_id": "684905220078-fja5j473k5dvvng8rcfsgam1053pehdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5m2TtLU9bCinyQfwbFddOdBuwt9saBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684905220078-fja5j473k5dvvng8rcfsgam1053pehdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
